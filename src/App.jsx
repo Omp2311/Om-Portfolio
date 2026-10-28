@@ -4,7 +4,7 @@ import { assetPath } from "./utils/assetPath";
 import HeroExperience from "./components/hero/HeroExperience";
 
 const profile = {
-  linkedin: "https://www.linkedin.com/in/omprakash-backend/",
+  linkedin: "https://www.linkedin.com/in/om-prakash-backend/",
   github: "https://github.com/Omp2311",
   phone: "+91 7087655951",
   phoneHref: "tel:+917087655951",
